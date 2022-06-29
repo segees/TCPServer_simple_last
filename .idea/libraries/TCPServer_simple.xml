@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TCPServer_simple">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-5.1.48-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mongo-java-driver-3.12.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-5.1.24-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
